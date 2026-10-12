@@ -1,0 +1,6 @@
+# versions used for the reported results (Python 3.8); all are in the OLP AI 2026 allowed-library list
+numpy==1.24.4
+pandas==2.0.3
+scipy
+scikit-learn==1.3.0
+torch==2.4.1

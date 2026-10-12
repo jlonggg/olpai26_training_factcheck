@@ -1,0 +1,4 @@
+# thử nghiệm + artifact (2GB), tái tạo được bằng olpai-factcheck/pipeline.py
+solution/
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,6 @@
+# vector fastText (tải theo README) và output của pipeline
+vec/
+*.npy
+*.pkl
+*.csv
+*.zip
